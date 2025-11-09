@@ -14,7 +14,7 @@ This project is a desktop application for managing and parsing tabular data with
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/Adan-DataManagerApp.git
+git clone https://github.com/Adan-Khalid/Adan-DataManagerApp.git
 cd Adan-DataManagerApp
 pip install -r requirements.txt
 python main.py
